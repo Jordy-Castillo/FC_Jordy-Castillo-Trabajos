@@ -1,1 +1,1 @@
-hola que tal esta es una prueba
+hola que tal esta es una prueba hecha desde git bash con el fin de comprobar que mi git bash está conectado eficientemente con mi repositorio virtual
