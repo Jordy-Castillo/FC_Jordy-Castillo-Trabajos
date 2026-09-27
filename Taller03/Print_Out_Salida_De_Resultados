@@ -1,0 +1,7 @@
+\### Salida de ejecución del programa Fortran (ajuste\_pendulo)
+
+Numero de datos N  =     89
+Pendiente a        =     4.048735 s^2/m
+Intercepto b       =    -0.002888 s^2
+Coeficiente R2     =     0.999748
+Aceleracion g      =     9.750804 m/s^2
